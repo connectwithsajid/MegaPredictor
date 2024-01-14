@@ -1,0 +1,25 @@
+<project xmlns="http://####Masked####" xmlns:xsi="http://www.w3.org/2001/X####Masked####"
+  xsi:schemaLocation="http://####Masked#### http://maven.apache.####Masked####">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>MegaPredictor</groupId>
+  <artifactId>Predictor</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>Predictor</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>####Masked####1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
